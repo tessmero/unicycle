@@ -1,14 +1,9 @@
-Simulation where a swarm of workers construct 2.5D block structures 
+Physics simulation where a one-wheeled robot balances itself and traverses obstacles using a [PID controller](https://en.wikipedia.org/wiki/PID_controller).
 
-Click to show/hide paths.
-
-Currently there are two different preset structure designs. One is chosen at random when the page is reloaded.
-
-Uses [Joe Iddon's Perlin Noise Generator](https://github.com/joeiddon/perlin) for terrain elevation.
-
+Uses the [matter.js](https://brm.io/matter-js/) physics engine
 ## Demo
 
-https://tessmero.github.io/castle.html
+https://tessmero.github.io/unicycle.html
 
 ## Usage
 
